@@ -1,0 +1,210 @@
+19:01:01 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Hola, buenas tarde!	Arrancamos en 5 min.
+19:01:19 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Cómo están ?		Un gusto conocerl@s !
+19:01:24 De Ezequiel Pacheco-1037260 a Todos:
+	Hola, buenas a todos! 🤝
+19:01:28 De Instructor :: Gaby Gonzalez Romero a Todos:
+	🖖
+19:01:42 De Carla Durante-1024465 a Todos:
+	Hola! Buenas tardes!
+19:01:42 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "Hola, buenas a todos..." with 👋
+19:01:43 De Juan Cruz Sabbatini a Todos:
+	buenas tardes!!
+19:01:48 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "Hola! Buenas tardes!" with 👋
+19:01:51 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "buenas tardes!!" with 👋
+19:01:52 De Ezequiel Pacheco-1037260 a Todos:
+	Reacted to "Hola! Buenas tardes!" with 👋
+19:01:53 De Ezequiel Pacheco-1037260 a Todos:
+	Reacted to "buenas tardes!!" with 👋
+19:02:01 De Octavio Susperregui- 1027745 a Todos:
+	Hola buenas
+19:02:06 De Sandra Gonzalez a Todos:
+	Hola, buenas tardes!!
+19:02:17 De Nicolas Fleitas-46762579 a Todos:
+	Hola buenass
+19:02:37 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "Hola buenas" with 👋
+19:02:42 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "Hola, buenas tardes!..." with 👋
+19:02:44 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "Hola buenass" with 👋
+19:05:23 De Ana Vilariño- Academic Assistant a Instructor :: Gaby Gonzalez Romero(mensaje directo):
+	arrancamos
+19:05:44 De Ezequiel Pacheco-1037260 a Todos:
+	Sii
+19:05:46 De Instructor :: Gaby Gonzalez Romero a Ana Vilariño- Academic Assistant(mensaje directo):
+	Se escucha!
+19:06:11 De Ezequiel Pacheco-1037260 a Todos:
+	Si
+19:15:24 De Ana Vilariño- Academic Assistant a Todos:
+	ana,vilarino@educacionit.com
+19:15:55 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Mi LinkedIn > https://www.linkedin.com/in/gabrielgonzalezr/
+19:16:09 De Camilo Rossi a Todos:
+	buenasss
+19:16:11 De Ezequiel Pacheco-1037260 a Todos:
+	Hola Profe! :)
+19:16:19 De Juan Cruz Sabbatini a Todos:
+	hola!!
+19:16:25 De Luciano Zapata a Todos:
+	buenaas
+19:16:47 De Ariel Mansilla a Todos:
+	Hola buenas tardes
+19:32:14 De Ezequiel Pacheco-1037260 a Todos:
+	Todo correcto!
+19:44:46 De Ezequiel Pacheco-1037260 a Todos:
+	Jajajaj
+19:55:24 De Nicolas Fleitas-46762579 a Todos:
+	profe, disculpa la molestia,no había entendido lo del diseño UX / UI, que seria
+19:56:18 De Ezequiel Pacheco-1037260 a Todos:
+	Profe, recomienda algún lugar/plataforma para estudiar Inglés técnico?
+19:56:53 De Nicolas Fleitas-46762579 a Todos:
+	aah listo perfecto prfoe, ahora ent6endi,graciass
+19:57:45 De Ezequiel Pacheco-1037260 a Todos:
+	Genial, gracias.
+19:57:54 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "Todo correcto!" with 💙
+19:57:58 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "Genial, gracias." with 💙
+20:05:19 De Nicolas Fleitas-46762579 a Todos:
+	Profe decís que es difícil programar o es cuestión de tiempo??
+20:05:41 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Instalar VS Code https://code.visualstudio.com/
+20:08:03 De Ezequiel Pacheco-1037260 a Todos:
+	Pasé 10 años de mi vida intentando ser profesional en VideoJuegos jaja
+20:21:41 De Nicolas Fleitas-46762579 a Todos:
+	f12
+20:22:20 De Nicolas Fleitas-46762579 a Todos:
+	yo con f12 me deja ver
+20:22:50 De Juan Cruz Sabbatini a Todos:
+	bien
+20:23:07 De Ariel Mansilla a Todos:
+	Por ahora vamos de 10
+20:33:23 De Nicolas Fleitas-46762579 a Todos:
+	me perdi jajajaj
+20:33:37 De Donna Cupo Elefoso a Todos:
+	Yo tambien
+20:35:48 De Instructor :: Gaby Gonzalez Romero a Todos:
+	index.html
+20:36:53 De Donna Cupo Elefoso a Todos:
+	si
+20:36:55 De Nicolas Fleitas-46762579 a Todos:
+	sisi
+20:37:36 De Nicolas Fleitas-46762579 a Todos:
+	profe, a mi me aparece asi
+20:37:50 De Nicolas Fleitas-46762579 a Todos:
+	esta bien ?? jajajaja
+20:39:03 De Nicolas Fleitas-46762579 a Todos:
+	joya profe, graciass
+20:41:33 De Ezequiel Pacheco-1037260 a Todos:
+	También se puede usar " ! " no?
+20:41:39 De Nicolas Fleitas-46762579 a Todos:
+	sisi
+20:42:07 De Carla Durante-1024465 a Todos:
+	a mi no me trae todo eso
+20:42:12 De Carla Durante-1024465 a Todos:
+	me quedan los html5
+20:42:18 De Donna Cupo Elefoso a Todos:
+	<!DOCTYPE html>	<html lang="en">	<head>	    <meta charset="UTF-8">	    <meta name="viewport" content="width=device-width, initial-scale=1.0">	    <title>Document</title>	</head>	<body>	    	</body>	</html>
+20:42:29 De Carla Durante-1024465 a Todos:
+	ah! ahi esta!!
+20:42:32 De Carla Durante-1024465 a Todos:
+	ahi me aparecio
+20:42:35 De Carla Durante-1024465 a Todos:
+	gracias
+20:42:39 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "gracias" with 💙
+20:43:54 De Instructor :: Gaby Gonzalez Romero a Todos:
+	header
+20:43:56 De Instructor :: Gaby Gonzalez Romero a Todos:
+	aside
+20:43:58 De Instructor :: Gaby Gonzalez Romero a Todos:
+	main
+20:44:09 De Instructor :: Gaby Gonzalez Romero a Todos:
+	footer
+20:44:25 De Ezequiel Pacheco-1037260 a Todos:
+	Un ñirculo
+20:44:53 De Ezequiel Pacheco-1037260 a Todos:
+	header+aside+main+footer 	y se ponen todas je
+20:51:02 De Ariel Mansilla a Todos:
+	Si una duda
+20:51:16 De Ariel Mansilla a Todos:
+	Como hacer la tBla
+20:51:43 De Ariel Mansilla a Todos:
+	Si esa parte
+20:52:17 De Ariel Mansilla a Todos:
+	Sisi ahora entendi
+20:52:17 De Juan Cruz Sabbatini a Todos:
+	html:5 + tab
+20:52:22 De Ariel Mansilla a Todos:
+	Gracias
+20:52:26 De Juan Cruz Sabbatini a Todos:
+	creo era eso
+20:55:22 De Ezequiel Pacheco-1037260 a Todos:
+	Ahora quizás no es tan difícil de leer, pero cuando aparece el texto, los atributos, etc.. es difícil no perderse jajaja
+20:56:37 De Juan Cruz Sabbatini a Todos:
+	Reacted to "Gracias " with ❤️
+20:58:16 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Reacted to "Ahora quizás no es t..." with 💙
+20:58:22 De Juan Cruz Sabbatini a Todos:
+	clarísimo todo profe!
+20:58:45 De Instructor :: Gaby Gonzalez Romero a Todos:
+	styles.css
+20:59:06 De Instructor :: Gaby Gonzalez Romero a Todos:
+	App.js
+21:02:14 De Instructor :: Gaby Gonzalez Romero a Todos:
+	enkia.tokyo-night
+21:02:41 De Nicolas Fleitas-46762579 a Todos:
+	profe,cuando terminamos de hacer algo en vs, y queremos cerrar la aplicación, tenemos q guardar como nos enseñaste?
+21:03:12 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Replying to "profe,cuando termina..."
+	
+	CTRL + S	CTRL + G
+21:03:21 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Replying to "profe,cuando termina..."
+	
+	File > Save
+21:03:29 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Replying to "profe,cuando termina..."
+	
+	Archivo > Guardar
+21:03:59 De Instructor :: Gaby Gonzalez Romero a Todos:
+	Replying to "profe,cuando termina..."
+	
+	Configuración de VSCode > Autosave / Auto guardado
+21:04:07 De Nicolas Fleitas-46762579 a Todos:
+	Ah perfecto profe
+21:04:43 De Carla Durante-1024465 a Todos:
+	Por ahora todo bien, muy buena la clase!
+21:05:25 De Ezequiel Pacheco-1037260 a Todos:
+	Profe, se puede ir avanzando en cuanto a proyecto, desafíos, examen, etc? Lo pregunto porque yo realmente tomé el curso para retomar de 0
+21:05:33 De Ezequiel Pacheco-1037260 a Todos:
+	Pero ya tengo un diploma en fullstack je
+21:05:42 De Stefanía Zorrilla-1031938 a Todos:
+	Gracias profe!!
+21:05:43 De Ariel Mansilla a Todos:
+	Genial profe
+21:05:44 De Carla Durante-1024465 a Todos:
+	Gracias!
+21:05:56 De Ezequiel Pacheco-1037260 a Todos:
+	Gracias profe!
+21:06:15 De Octavio Susperregui- 1027745 a Todos:
+	Gracias profe buenas noches
+21:06:31 De Juan Cruz Sabbatini a Todos:
+	excelente todo!! mil graciass!!
+21:06:46 De Sandra Gonzalez a Todos:
+	gracias Profe, hasta el miércoles
+21:06:46 De Ariel Mansilla a Todos:
+	Genial profe muy buena claseee hasta el miércoles
+21:06:49 De Nicolas Fleitas-46762579 a Todos:
+	chau profeee
+21:06:51 De Nicolas Fleitas-46762579 a Todos:
+	un gusto
+21:06:54 De Ezequiel Pacheco-1037260 a Todos:
+	Hasta el miércoles!!
+21:07:27 De Instructor :: Gaby Gonzalez Romero a Ana Vilariño- Academic Assistant(mensaje directo):
+	Gracias Ana por el soporte !!!
