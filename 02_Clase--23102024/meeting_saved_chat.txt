@@ -1,0 +1,144 @@
+22:10:03 De Ezequiel Pacheco-1037260 a Todos:
+	Muy bueno el contenido teórico que dan.
+19:11:28 De Donna Cupo Elefoso a Todos:
+	holaaa
+19:30:09 De Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	ritwickdey.LiveServer
+19:41:27 De Jonatan Gabriel Halicky a Todos:
+	perdón
+19:41:32 De Jonatan Gabriel Halicky a Todos:
+	porque ese quedaría por fuera?
+19:41:52 De Ezequiel Pacheco-1037260 a Todos:
+	Es para poder repetir las listas en el footer
+19:43:02 De Jonatan Gabriel Halicky a Todos:
+	perfecto
+19:43:04 De Jonatan Gabriel Halicky a Todos:
+	gracias
+19:43:08 De Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	Reacted to "perfecto" with 💙
+19:49:10 De Donna Cupo Elefoso a Todos:
+	cuantos section y article? me maree
+19:52:55 De Donna Cupo Elefoso a Todos:
+	h4?
+19:52:59 De Ezequiel Pacheco-1037260 a Todos:
+	H2
+19:54:36 De Nicolas Fleitas - 46762579 a Todos:
+	ahora se tiene q poner la etiqueta <p>?
+19:56:00 De Donna Cupo Elefoso a Todos:
+	okok
+19:58:23 De Nicolas Fleitas - 46762579 a Todos:
+	como hizo el profe para que el texto lorem, quede como mas resumido, porque loo puse y el texto se alargo
+19:58:29 De Ezequiel Pacheco-1037260 a Todos:
+	Lorem20
+19:58:41 De Ezequiel Pacheco-1037260 a Todos:
+	El 20 al final, te dice cuantas palabras queres del lorem
+19:59:01 De Nicolas Fleitas - 46762579 a Todos:
+	aaaaa
+19:59:05 De Nicolas Fleitas - 46762579 a Todos:
+	perfecto, gracias
+19:59:21 De Jonatan Gabriel Halicky a Todos:
+	jajjaja
+19:59:25 De Jonatan Gabriel Halicky a Todos:
+	va tomando forma
+19:59:32 De Ezequiel Pacheco-1037260 a Todos:
+	Reacted to "va tomando forma" with 😂
+19:59:57 De Nicolas Fleitas - 46762579 a Todos:
+	profe
+20:00:17 De Nicolas Fleitas - 46762579 a Todos:
+	a mi no me aparece como va quedando la pagina
+20:00:40 De Nicolas Fleitas - 46762579 a Todos:
+	sii
+20:00:43 De Nicolas Fleitas - 46762579 a Todos:
+	pero
+20:00:51 De Nicolas Fleitas - 46762579 a Todos:
+	no me aparece lo q escribo
+20:01:01 De Nicolas Fleitas - 46762579 a Todos:
+	asi me aparece
+20:01:05 De Nicolas Fleitas - 46762579 a Todos:
+	lo tengo autoguardado
+20:01:23 De Donna Cupo Elefoso a Todos:
+	a mi me aparece así
+20:02:42 De Nicolas Fleitas - 46762579 a Todos:
+	lo hice, pero me sigue apareciendo lo mismo
+20:02:48 De Nicolas Fleitas - 46762579 a Todos:
+	ahora me fijo otra forma
+20:04:13 De Nicolas Fleitas - 46762579 a Todos:
+	se puede cambiar para abrir con otro navegador, xq me abre directamentre con opera
+20:08:18 De Nicolas Fleitas - 46762579 a Todos:
+	ahi ya pude ver la pagina profe, nc q toque
+20:19:58 De Ezequiel Pacheco-1037260 a Todos:
+	Profe, esos 2 titulos podrian ir en h3_
+20:20:44 De Jonatan Gabriel Halicky a Todos:
+	Reacted to "Profe, esos 2 titulo..." with 👍
+20:21:16 De Nicolas Fleitas - 46762579 a Todos:
+	profe, podrías mostrar un toque el visual estudio, me perdi jajaja
+20:22:34 De Nicolas Fleitas - 46762579 a Todos:
+	creo q voy bien
+20:23:14 De Ezequiel Pacheco-1037260 a Todos:
+	Yo lo que hice para no perderme, fue poner un comentario al principio de cada seccion
+20:33:04 De Ezequiel Pacheco-1037260 a Todos:
+	<b> no es?
+20:33:15 De Ezequiel Pacheco-1037260 a Todos:
+	Que ahora se usa <strong> creo
+20:39:13 De Donna Cupo Elefoso a Todos:
+	me perdi
+20:48:03 De Ezequiel Pacheco-1037260 a Todos:
+	Profe, es sumamente necesario agrupar todo en un <article>? No basta con el <section> ?
+20:48:42 De Ezequiel Pacheco-1037260 a Todos:
+	Para manejar mejor los flexbox y el grid no?
+20:49:52 De Donna Cupo Elefoso a Todos:
+	asi lo twngo ahora
+20:49:58 De Donna Cupo Elefoso a Todos:
+	tengo*
+20:50:00 De Nicolas Fleitas - 46762579 a Todos:
+	Ya me da miedo ver Css jajajajas
+20:50:12 De Ezequiel Pacheco-1037260 a Todos:
+	Ok ok, entiendo! Gracias. Es para tener mejor selectores tambien
+20:51:10 De Nicolas Fleitas - 46762579 a Todos:
+	Profe a mi no me aparece como alguno que les aparece en algunas parte que dice "Learn More"
+20:51:29 De Nicolas Fleitas - 46762579 a Todos:
+	no
+20:51:34 De Nicolas Fleitas - 46762579 a Todos:
+	asi me aparece
+21:06:17 De Jonatan Gabriel Halicky a Todos:
+	la verdad muy bien explicado
+21:06:26 De Jonatan Gabriel Halicky a Todos:
+	igual ahora voy a pegar una repasada
+21:06:52 De Nicolas Fleitas - 46762579 a Todos:
+	profe, asi estas bien??
+21:10:43 De Nicolas Fleitas - 46762579 a Todos:
+	ahhhhhh
+21:11:12 De Nicolas Fleitas - 46762579 a Todos:
+	entonces figure,tiene q estar dentro de la etiqwueta A?
+21:11:17 De Nicolas Fleitas - 46762579 a Todos:
+	hice todo mal
+21:11:19 De Nicolas Fleitas - 46762579 a Todos:
+	con rzon
+21:11:20 De Nicolas Fleitas - 46762579 a Todos:
+	jajajaja
+21:11:37 De Ezequiel Pacheco-1037260 a Todos:
+	Para ir anidando a medida que el profe va explicando
+21:11:41 De Ezequiel Pacheco-1037260 a Todos:
+	Podes escribir a>figure>img
+21:12:42 De Nicolas Fleitas - 46762579 a Todos:
+	alguiene el link de discord, xq non lo encuentro
+21:12:45 De Ezequiel Pacheco-1037260 a Todos:
+	Muy bueno Profe, la verdad es muy entendible como explica.
+21:13:10 De Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	Reacted to "Muy bueno Profe, la ..." with 💙
+21:13:18 De Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	gabygonzalezromero@gmail.com
+21:14:17 De Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	g4gr/EIT__DesarrolloWebConHTML--74382
+21:15:17 De Nicolas Fleitas - 46762579 a Todos:
+	Grandee porfee!!!!!
+21:15:48 De Ezequiel Pacheco-1037260 a Todos:
+	Nos vemos el lunes profe! Que se mejore de la garganta. Buen finde
+21:15:53 De Jonatan Gabriel Halicky a Todos:
+	saludos
+21:15:53 De Sandra González-953144 a Todos:
+	gracias profe, igualmente!
+21:15:54 De Ariel Mansilla a Todos:
+	Gracias profe
+21:15:58 De Juan Cruz Sabbatini-415722 a Todos:
+	buen finde!! saludos
